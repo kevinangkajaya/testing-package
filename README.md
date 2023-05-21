@@ -1,3 +1,5 @@
+This reactJS is used to test component https://github.com/kevinangkajaya/package-react-test
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
