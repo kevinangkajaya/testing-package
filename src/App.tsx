@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { Button } from '@kevinangkajaya/package-react-test';
+import Button from '@kevinangkajaya/package-react-test';
 
 function App() {
   return (
